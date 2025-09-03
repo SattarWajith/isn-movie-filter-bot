@@ -1,6 +1,7 @@
 import asyncio
 from pyrogram import Client
 from config import FEATURES
+from bot.config import API_ID, API_HASH, BOT_TOKEN
 
 def load_features():
     import importlib
