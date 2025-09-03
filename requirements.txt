@@ -1,0 +1,16 @@
+pyrogram
+tgcrypto
+pymongo
+aiosqlite
+psycopg2-binary
+mysql-connector-python
+python-dotenv
+requests
+aiohttp
+Pillow
+gTTS
+google-api-python-client
+moviepy
+scikit-learn
+numpy
+pandas
